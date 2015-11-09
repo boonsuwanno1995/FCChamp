@@ -1,2 +1,0 @@
-# FCChamp
-FC Champ
